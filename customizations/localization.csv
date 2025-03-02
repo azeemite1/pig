@@ -1,0 +1,39 @@
+locale,key,value
+
+en_US,load_text,chuncks loaded into Astra DB
+en_US,load_pdf,chuncks loaded into Astra DB
+en_US,load_csv,chuncks loaded into Astra DB
+en_US,load_embedding,Getting the OpenAI embedding...
+en_US,load_vectorstore,Getting the Vector Store from Astra DB...
+en_US,load_message_history,Getting the Message History from Astra DB...
+en_US,assistant_welcome,"Hi, I'm your personal assistant and am ready to help!"
+en_US,logout_caption,Welcome! Logged in as user
+en_US,logout_button,Logout
+en_US,disable_chat_history,Disable Chat History
+en_US,k_chat_history,K for Chat History
+en_US,delete_chat_history_button,Delete Chat History
+en_US,deleting_chat_history,Deleting Chat History
+en_US,disable_vector_store,Disable Vector Store
+en_US,top_k_vector_store,Top-K for Vector Store
+en_US,rag_strategy,RAG strategy:
+en_US,rag_strategy_help,"Basic retrieval finds the most relevant document with potential duplicate information. MMR ensures a balance between relevancy and diversity in the items retrieved. Fusion generates a set of additional relevant queries to retrieve relevant documents."
+en_US,system_prompt,System Prompt:
+en_US,custom_prompt,Custom Prompt:
+en_US,custom_prompt_help,"You can use the following placeholders: {question}, {context}, {chat_history}"
+en_US,load_context,Upload a document for additional context
+en_US,load_context_button,Load Documents
+en_US,load_from_urls,Load data from URL(s):
+en_US,load_from_urls_help,Please comma-divide multiple URLs
+en_US,load_from_urls_button,Load Web Data
+en_US,delete_context,"Delete the context, history and start over. This deletes vector embeddings for ALL users!"
+en_US,delete_context_button,Delete context
+en_US,deleting_context,Removing context and intialising...
+en_US,rails_1,🤩 Try the following prompts ⬇️
+en_US,rails_2,(copy and paste in the chat box)
+en_US,assistant_question,What's up?
+en_US,take_picture,Take a picture
+en_US,using_fusion_queries,Using the following queries based on your prompt according to the Fusion Strategy:
+en_US,no_context,No additional context was used as the Vector Store is disabled.
+en_US,sources_used,The following context was retrieved from the Vector Database:
+en_US,no_chat_history,No Chat History was used as this option is disabled.
+en_US,chat_history_used,Chat History messages used to construct this response.
