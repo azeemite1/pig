@@ -15,8 +15,7 @@ from langchain_openai import ChatOpenAI
 from langchain.memory import ConversationBufferWindowMemory
 from langchain.memory import AstraDBChatMessageHistory
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.document_loaders import CSVLoader,  # Removed PDF, WebBaseLoader
-    # Note: We will load TXT and Excel files using pandas
+from langchain_community.document_loaders import CSVLoader
 from langchain.schema import HumanMessage, AIMessage
 from langchain.prompts import ChatPromptTemplate
 from langchain.schema.runnable import RunnableMap
