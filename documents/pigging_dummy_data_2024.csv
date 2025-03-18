@@ -1,0 +1,31 @@
+Line,Pig Run,Contractor,Date Launched,Time Launched,Launch Pressure (bar),Pressure After Launch (bar),Pig Type,Date Recovered,Time Recovered,Recovery Pressure (bar),Pressure After Recovery (bar),Pig Condition,Debris QTY (kg),Debris Type,,Length mm,Thickness ge mm,Thickness sc,Dia ge mm,Dia sc mm,Brushes mm,Height brushes mm
+36'' Rumuekpe-Nkpoku Manifold,1,DSV,04/14/2024,0420hrs,24.9,24.9,BIDI+Brushes,04/19/2024,1926hrs,25,25,Moderate,2041,Sand/Sludge,,1570,45,30,890,920,100,70
+36'' Rumuekpe-Nkpoku Manifold,2,DSV,04/07/2024,1539hrs,18.9,19.5,BIDI Without Brushes,04/09/2024,1230hrs,22.6,22.6,Worn,2030,Sand,,1570,45,30,890,920,100,70
+36'' Rumuekpe-Nkpoku Manifold,3,DSV,11/06/2024,0720hrs,23,23.9,BIDI Without Brushes,11/11/2024,0621hrs,24,24,Worn,2688,Sand,,1570,45,30,890,920,100,70
+36'' Rumuekpe-Nkpoku Manifold,4,DSV,04/20/2024,0949hrs,23.1,23.6,BIDI+Brushes,04/23/2024,1451hrs,24,24,OK,906,Sand/Sludge,,1570,45,30,890,920,100,70
+36'' Rumuekpe-Nkpoku Manifold,5,DSV,08/12/2024,1844hrs,17.8,21.9,BIDI+Brushes,08/16/2024,0128hrs,18.9,18.9,OK,1910,Sand,,1570,45,30,890,920,100,70
+36'' Rumuekpe-Nkpoku Manifold,6,DSV,04/28/2024,0724hrs,17.3,21.9,BIDI Without Brushes,05/01/2024,1118hrs,18.7,18.7,OK,1610,Sand/Sludge,,1570,45,30,890,920,100,70
+36'' Rumuekpe-Nkpoku Manifold,7,DSV,11/10/2024,1445hrs,19.6,23.9,BIDI Without Brushes,11/12/2024,0231hrs,23.8,23.8,Moderate,1575,Sand,,1570,45,30,890,920,100,70
+36'' Rumuekpe-Nkpoku Manifold,8,DSV,01/28/2024,0214hrs,18.5,24.9,BIDI+Brushes,02/02/2024,1212hrs,21.7,21.7,Worn,2916,Sand/Sludge,,1570,45,30,890,920,100,70
+36'' Rumuekpe-Nkpoku Manifold,9,DSV,08/05/2024,1713hrs,25,25,BIDI Without Brushes,08/10/2024,0803hrs,25,25,Moderate,2608,Sand/Sludge,,1570,45,30,890,920,100,70
+36'' Rumuekpe-Nkpoku Manifold,10,DSV,07/26/2024,0047hrs,19.9,23.4,BIDI+Brushes,07/30/2024,2153hrs,19.9,19.9,OK,896,Sand/Sludge,,1570,45,30,890,920,100,70
+28'' Nkpoku-Ebubu TL,1,DSV,08/10/2024,2222hrs,17.2,18.7,BIDI+Brushes,08/14/2024,0337hrs,20.4,20.4,Moderate,1359,Sand/Sludge,,1570,45,30,890,920,100,70
+28'' Nkpoku-Ebubu TL,2,DSV,01/02/2024,2016hrs,22.7,24.2,BIDI+Brushes,01/04/2024,1104hrs,25,25,Moderate,2727,Sand,,1570,45,30,890,920,100,70
+28'' Nkpoku-Ebubu TL,3,DSV,11/07/2024,1640hrs,18.6,24.3,BIDI Without Brushes,11/10/2024,1912hrs,19.9,19.9,Moderate,1513,Sand,,1570,45,30,890,920,100,70
+28'' Nkpoku-Ebubu TL,4,DSV,10/28/2024,0134hrs,17.9,21.1,BIDI+Brushes,10/30/2024,2352hrs,24.3,24.3,OK,2072,Sand,,1570,45,30,890,920,100,70
+28'' Nkpoku-Ebubu TL,5,DSV,12/08/2024,2152hrs,24,24.1,BIDI+Brushes,12/12/2024,1129hrs,24.9,24.9,Moderate,2533,Sand,,1570,45,30,890,920,100,70
+28'' Nkpoku-Ebubu TL,6,DSV,03/13/2024,0605hrs,19.6,23.9,BIDI+Brushes,03/18/2024,2004hrs,24.8,24.8,Worn,868,Sand,,1570,45,30,890,920,100,70
+28'' Nkpoku-Ebubu TL,7,DSV,02/27/2024,1944hrs,20.1,22.8,BIDI+Brushes,02/29/2024,0515hrs,23.6,23.6,Worn,2271,Sand,,1570,45,30,890,920,100,70
+28'' Nkpoku-Ebubu TL,8,DSV,07/27/2024,0836hrs,18,19.5,BIDI Without Brushes,08/01/2024,1305hrs,19.5,19.5,OK,1417,Sand/Sludge,,1570,45,30,890,920,100,70
+28'' Nkpoku-Ebubu TL,9,DSV,07/09/2024,1527hrs,19.7,23,BIDI+Brushes,07/13/2024,0017hrs,24,24,Moderate,868,Sand/Sludge,,1570,45,30,890,920,100,70
+28'' Nkpoku-Ebubu TL,10,DSV,10/10/2024,1829hrs,19.1,19.5,BIDI+Brushes,10/13/2024,2245hrs,19.2,19.2,Worn,2737,Sand/Sludge,,1570,45,30,890,920,100,70
+36'' Ogale-Imo River TL,1,DSV,11/30/2024,0221hrs,17.7,21.2,BIDI Without Brushes,12/05/2024,1429hrs,21.5,21.5,Worn,1184,Sand/Sludge,,1570,45,30,890,920,100,70
+36'' Ogale-Imo River TL,2,DSV,08/15/2024,2237hrs,21.8,23.5,BIDI+Brushes,08/18/2024,1926hrs,22.2,22.2,OK,709,Sand/Sludge,,1570,45,30,890,920,100,70
+36'' Ogale-Imo River TL,3,DSV,06/14/2024,2155hrs,20.7,21.4,BIDI Without Brushes,06/18/2024,2300hrs,22,22,Worn,1049,Sand,,1570,45,30,890,920,100,70
+36'' Ogale-Imo River TL,4,DSV,07/08/2024,1529hrs,19.6,22.6,BIDI Without Brushes,07/10/2024,1129hrs,22.1,22.1,Worn,762,Sand,,1570,45,30,890,920,100,70
+36'' Ogale-Imo River TL,5,DSV,11/13/2024,0207hrs,18.9,20.9,BIDI+Brushes,11/16/2024,0738hrs,22.8,22.8,Moderate,1385,Sand,,1570,45,30,890,920,100,70
+36'' Ogale-Imo River TL,6,DSV,12/25/2024,2213hrs,17,22.9,BIDI+Brushes,12/29/2024,2210hrs,24.2,24.2,Moderate,1545,Sand/Sludge,,1570,45,30,890,920,100,70
+36'' Ogale-Imo River TL,7,DSV,12/30/2024,1506hrs,19,20,BIDI+Brushes,01/03/2025,1823hrs,22.6,22.6,OK,1574,Sand/Sludge,,1570,45,30,890,920,100,70
+36'' Ogale-Imo River TL,8,DSV,08/28/2024,2046hrs,16.5,18.3,BIDI Without Brushes,08/31/2024,0507hrs,18.2,18.2,OK,2632,Sand,,1570,45,30,890,920,100,70
+36'' Ogale-Imo River TL,9,DSV,09/19/2024,1041hrs,19.3,22.7,BIDI Without Brushes,09/23/2024,1307hrs,21.6,21.6,OK,1942,Sand/Sludge,,1570,45,30,890,920,100,70
+36'' Ogale-Imo River TL,10,DSV,01/17/2024,1706hrs,24.8,24.9,BIDI Without Brushes,01/20/2024,0523hrs,24.9,24.9,Worn,2846,Sand,,1570,45,30,890,920,100,70
